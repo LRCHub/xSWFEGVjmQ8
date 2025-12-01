@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "the Fourth Avenue Cafe",
+  "base_artist": "L'Arc～en～Ciel",
+  "createdAt": "2025-12-01T16:24:36.308325Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "the fourth avenue cafe",
+      "artist": "larcenciel",
+      "has_synced": true,
+      "path": "select/01_the_fourth_avenue_cafe_larcenciel.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "the Fourth Avenue Cafe",
+      "artist": "L'Arc〜en〜Ciel",
+      "has_synced": true,
+      "path": "select/02_the_Fourth_Avenue_Cafe_L'Arc〜en〜Ciel.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "the Fourth Avenue Cafe",
+      "artist": "L'Arc-en-Ciel",
+      "has_synced": true,
+      "path": "select/03_the_Fourth_Avenue_Cafe_L'Arc-en-Ciel.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Fourth Avenue Cafe",
+      "artist": "L'Arc~en~Ciel",
+      "has_synced": true,
+      "path": "select/04_The_Fourth_Avenue_Cafe_L'Arc~en~Ciel.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "the Fourth Avenue Cafe",
+      "artist": "L’Arc〜en〜Ciel",
+      "has_synced": true,
+      "path": "select/05_the_Fourth_Avenue_Cafe_L’Arc〜en〜Ciel.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "the Fourth Avenue Cafe",
+      "artist": "L'Arc~en~Ciel",
+      "has_synced": true,
+      "path": "select/06_the_Fourth_Avenue_Cafe_L'Arc~en~Ciel.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "the Fourth Avenue Café",
+      "artist": "L'Arc～en～Ciel",
+      "has_synced": true,
+      "path": "select/07_the_Fourth_Avenue_Café_L'Arc~en~Ciel.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "the Fourth Avenue Café",
+      "artist": "L'Arc~en~Ciel",
+      "has_synced": true,
+      "path": "select/08_the_Fourth_Avenue_Café_L'Arc~en~Ciel.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "the Fourth Avenue Cafe",
+      "artist": "L'Arc~en~Ciel",
+      "has_synced": false,
+      "path": "select/09_the_Fourth_Avenue_Cafe_L'Arc~en~Ciel.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "the Fourth Avenue Cafe - Remastered 2022",
+      "artist": "L'Arc~en~Ciel",
+      "has_synced": true,
+      "path": "select/10_the_Fourth_Avenue_Cafe_-_Remastered_2022_L'Arc~en~Ciel.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "the Fourth Avenue Cafe",
+      "artist": "L'Arc~en~Ciel",
+      "has_synced": true,
+      "path": "select/11_the_Fourth_Avenue_Cafe_L'Arc~en~Ciel.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Fourth Avenue Cafe",
+      "artist": "L'Arc~en~Ciel",
+      "has_synced": true,
+      "path": "select/12_The_Fourth_Avenue_Cafe_L'Arc~en~Ciel.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "the Fourth Avenue Cafe - Remastered 2022",
+      "artist": "L'Arc-en-Ciel",
+      "has_synced": true,
+      "path": "select/13_the_Fourth_Avenue_Cafe_-_Remastered_2022_L'Arc-en-Ciel.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "the Fourth Avenue Cafe - Remastered 2022",
+      "artist": "L'Arc～en～Ciel",
+      "has_synced": true,
+      "path": "select/14_the_Fourth_Avenue_Cafe_-_Remastered_2022_L'Arc~en~Ciel.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "the Fourth Avenue Cafe (25th L'Anniversary LIVE)",
+      "artist": "L'Arc-en-Ciel",
+      "has_synced": true,
+      "path": "select/15_the_Fourth_Avenue_Cafe_(25th_L'Anniversary_LIVE)_L'Arc-en-Ciel.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "the Fourth Avenue Cafe",
+      "artist": "L'Arc~en~Ciel",
+      "has_synced": true,
+      "path": "select/16_the_Fourth_Avenue_Cafe_L'Arc~en~Ciel.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "the Fourth Avenue Cafe",
+      "artist": "L’Arc〜en〜Ciel",
+      "has_synced": true,
+      "path": "select/17_the_Fourth_Avenue_Cafe_L’Arc〜en〜Ciel.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "the Fourth Avenue Cafe",
+      "artist": "L'Arc~en~Ciel",
+      "has_synced": false,
+      "path": "select/pl_01_the_Fourth_Avenue_Cafe_L'Arc~en~Ciel.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "the Fourth Avenue Cafe",
+      "artist": "L'Arc~en~Ciel",
+      "has_synced": false,
+      "path": "select/pl_02_the_Fourth_Avenue_Cafe_L'Arc~en~Ciel.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "the Fourth Avenue Cafe",
+      "artist": "L'Arc~en~Ciel",
+      "has_synced": false,
+      "path": "select/pl_03_the_Fourth_Avenue_Cafe_L'Arc~en~Ciel.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "The Fourth Avenue Café",
+      "artist": "L'Arc~en~Ciel",
+      "has_synced": false,
+      "path": "select/pl_04_The_Fourth_Avenue_Café_L'Arc~en~Ciel.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "the Fourth Avenue Café",
+      "artist": "L'Arc~en~Ciel",
+      "has_synced": false,
+      "path": "select/pl_05_the_Fourth_Avenue_Café_L'Arc~en~Ciel.txt"
+    }
+  ]
+}
